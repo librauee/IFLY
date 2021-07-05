@@ -1,7 +1,7 @@
 # 科大讯飞AI开发者大赛 
 * 基于用户画像的商品推荐挑战赛 Baseline
 * 线上成绩0.67+
-* [报名链接](http://challenge.xfyun.cn/h5/invite?invitaCode=L99BQZ)
+* [报名链接](http://challenge.xfyun.cn/?ch=dc-ugc-28)
 
 ## Note
 
